@@ -8,7 +8,7 @@
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
@@ -39,7 +39,7 @@
 
 <br>
 
-![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByungHeonLEE&show_icons=true&theme=radical)
+![ByungHeonLEE's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByungHeonLEE&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByungHeonLEE&layout=compact)
 
 <h3 align="center">📫 Contact 📫</h3>
